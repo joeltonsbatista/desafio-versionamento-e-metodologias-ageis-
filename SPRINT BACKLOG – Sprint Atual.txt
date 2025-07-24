@@ -1,0 +1,8 @@
+SPRINT BACKLOG – Sprint Atual
+
+
+Histórias selecionadas para a Sprint:
+ID	História de Usuário	Tarefa Técnica	Esforço Estimado (horas)
+1	Como usuário, quero visualizar os nomes dos veículos destacados em azul.	Alterar cor dos nomes no index.html	2h
+3	Como usuário, quero navegar facilmente pelos links do site com descrições mais claras.	Atualizar descrições dos links em contato.html	2h
+
