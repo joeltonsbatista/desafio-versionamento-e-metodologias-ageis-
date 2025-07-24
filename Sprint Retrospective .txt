@@ -1,0 +1,20 @@
+Sprint Retrospective 
+
+Sprint 3 O que funcionou bem: 
+
+- A divisão das tarefas entre as branchs (index e contato) facilitou o foco em cada funcionalidade.
+- As alterações propostas foram simples e bem definidas, o que agilizou o desenvolvimento.
+- O uso do Git e GitHub para versionamento foi eficiente e contribuiu para o controle das mudanças.
+
+
+O que não funcionou bem: 
+
+- A descrição das histórias de usuário poderia ter sido mais clara, exigindo consultas adicionais.
+- Houve dúvidas iniciais sobre o uso de branches e merge, atrasando parte do time.
+
+
+Sugestões de melhoria: 
+
+- Definir critérios de aceitação mais objetivos para as histórias de usuário.
+- Criar um guia rápido de boas práticas no uso do Git para novos membros da equipe.
+- Realizar uma revisão rápida do backlog antes do Sprint Planning para garantir clareza.
